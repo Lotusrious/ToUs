@@ -1,4 +1,4 @@
-# 🗺️ ToUs - AI 여행 계획 자동제작 플랫폼 
+# 🗺️ ToUs - AI 여행 계획 자동제작 플랫폼
 
 **카카오 지도 API**와 **OpenAI API**를 활용해  
 여행 일정을 자동으로 생성하고,  
@@ -6,6 +6,22 @@
 
 회원가입, 로그인, 마이페이지, SNS 로그인, 사이드바 등  
 실제 서비스에 가까운 다양한 부가 기능도 포함되어 있습니다.
+
+---
+
+## ⏰ 프로젝트 기간
+- 2025.04 ~ 2025.05
+
+## 🧑‍💻 담당 역할
+- 카카오 지도 API 및 OpenAI API를 활용한 여행 일정 시각화 기능 개발  
+- 여행 일정 자동 생성 프롬프트 엔지니어링 및 API 연동  
+- 지도 기반 경로 안내 UI 구현
+
+## 🛠️ 사용 기술
+- Frontend: HTML, CSS, JavaScript  
+- API: Kakao Maps JavaScript API, Kakao REST API, OpenAI API  
+- 협업/디자인: Figma, Slack, VSCode, Git  
+- 데이터: JSON 파일 관리, 외부 이미지 CDN 활용
 
 ---
 
